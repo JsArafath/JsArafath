@@ -5,7 +5,7 @@
 </a>
 
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Arafat</h1>  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/JsArafath/JsArafath/main/hi.gif" width="50px" height="50px">, I'm Arafat</h1>  
 <h3 align="center">A passionate Engineer from Bangladesh</h3>  
 
 
@@ -25,13 +25,13 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JsArafath&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/JsArafath/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=JsArafath&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <br>
-<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JsArafath&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
+<p align="center"> <a href="https://github.com/JsArafath/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JsArafath&row=1&column=6&theme=onedark" alt="JsArafath" /></a> </p>
 
 
 <br> 
@@ -61,12 +61,12 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JsArafath&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsArafath&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/JsArafath/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=JsArafath&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/JsArafath/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsArafath&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JsArafath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/JsArafath/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=JsArafath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -75,6 +75,6 @@
 <h2>Support Me  
 <p><a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></a></p>
 
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+![Waves](https://raw.githubusercontent.com/JsArafath/JsArafath/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
 
