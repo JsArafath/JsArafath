@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://arafat-portfolio.netlify.app/)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **arafath.91289@gmail.com**
 
 - ⚡ Fun fact **I play games**
 
