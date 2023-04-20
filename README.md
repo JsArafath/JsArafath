@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
   
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://arafat-portfolio.netlify.app/)**
 
