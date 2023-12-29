@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://arafat-portfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/md-mohaiminul-islam-299442131/)**
 
 - 📫 How to reach me **arafath.91289@gmail.com**
 
