@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/md-mohaiminul-islam-299442131/)**
 
-- 📫 How to reach me **arafath.91289@gmail.com**
+- 📫 How to reach me- **arafath.91289@gmail.com**
 
 - ⚡ Fun fact **I play games**
 
