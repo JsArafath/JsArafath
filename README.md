@@ -5,7 +5,7 @@
 </a>
 
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Arafat</h1>  
+<h1 align="center">Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Arafat</h1>  
 <h3 align="center">A passionate Engineer from Bangladesh</h3>  
 
 
