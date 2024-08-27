@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Engineer from Bangladesh</h3>  
 
 
-## 🙋‍♂️ About Me 
+## 🙋‍♂️ About Me
   
 - 🌱 I’m currently learning **Redux**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me- **arafath.91289@gmail.com**
 
-- ⚡ Fun fact **I play games**
+- ⚡ Fun fact **I play games** 
 
 
 
