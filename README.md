@@ -42,9 +42,16 @@
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+  <img src="https://img.shields.io/badge/Framer-0f172a?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
 - UI/UX Design  
 - Graphics Design  
 - Digital Marketing  
+- Canva Design  
+- Framer Website Design  
  
 
 ---
