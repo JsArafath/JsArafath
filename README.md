@@ -40,11 +40,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=00C4CC" />
-  <img src="https://img.shields.io/badge/Framer-0f172a?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/canva.png" height="48" />
+  <img src="https://cdn.simpleicons.org/framer/ffffff" height="48" />
 </p>
 
 - UI/UX Design  
