@@ -56,15 +56,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JsArafath&show_icons=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JsArafath&background=000000&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=cccccc&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsArafath&layout=compact&bg_color=000000&title_color=00ffff&text_color=ffffff&hide_border=true" />
+  <img src="https://your-stats.vercel.app/api/top-langs/?username=JsArafath&layout=compact&bg_color=000000&title_color=00ffff&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
