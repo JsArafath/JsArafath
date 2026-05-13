@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:00ffff&height=220&section=header&text=MERN%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20Node.js%20%7C%20Express.js%20%7C%20MongoDB&descAlignY=58&descSize=18" />
 </p>
 
-<h1 align="center">Hi 👋, I'm MD. Mohaiminul Islam  </h1>
+<h1 align="center">Hi 👋, I'm MD. Mohaiminul Islam   </h1>
 <h3 align="center">🚀 MERN Stack Developer | 💡 Problem Solver | 🎨 Creative Designer</h3>
 
 <p align="center">
