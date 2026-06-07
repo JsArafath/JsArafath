@@ -65,13 +65,16 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
-- 🏆 Built Full MERN Ecommerce Platform (Official Tool Store)
-- 💳 Integrated SSLCommerz Payment Gateway
-- 🔐 Implemented JWT Authentication System
-- 🛠️ Developed Admin Dashboard with Product Management
-- 🌐 Deployed Full Stack Project (Vercel + Render)
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" />
+</p>
 
 ---
 
